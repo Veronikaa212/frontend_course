@@ -1,0 +1,91 @@
+<DOCTYPE html>
+<html lang='ru'>
+	<head>
+		<meta charset='utf-8'>
+		<title>урок9</title>
+	</head>
+	<body>
+		<form style='border: 2px solid black;'>
+			<label>ФИО
+				<input type='text' placeholder='Введите ФИО'>
+			</label></br>
+			<label>Пароль
+			<input type='password' placeholder='Введите пароль' maxlength='8'>
+			</label></br>
+			<label>Email
+			<input type='email' placeholder='Введите email'>
+			</label></br>
+			<label>Дата рождения
+			<input type='datalist'>
+			<label>Number
+			<input type='number'>
+			</label></br>
+			<label>Radio кнопки
+				<br>
+				<input type='radio' name='variant' checked>Вариант А
+				<br>
+				<input type='radio' name='variant'>Вариант Б
+				<br>
+				<input type='radio' name='variant'>Вариант В
+				<br>
+				<input type='radio' name='variant'>Вариант Г
+			</label></br>
+			
+			<label>Checkbox кнопки
+				<br>
+				<input type='Checkbox' name='variant' checked>Вариант А
+				<br>
+				<input type='Checkbox' name='variant'>Вариант А
+				<br>
+				<input type='Checkbox' name='variant'>Вариант А
+				<br>
+				<input type='Checkbox' name='variant'>Вариант А
+			</label></br>
+			
+			<input type='submit' value='Отправить заявку'>
+			<input type='reset'>
+			
+			<br>
+			<button type='submit'>Отправить</button>
+			<button type='reset'>Сбросить</button>
+		</form>
+		
+		<h1>Примеры элементов формы</h1>
+		
+		<form style='border: 2px solid green;'>
+			<!--текстовое поле-->
+			<label for='name'>Имя: </label>
+			<input type='text' id='name' name='name' placeholder='Введите имя'><br></br>
+			
+			<!--пароль-->
+			<label for='password'>Пароль: </label>
+			<input type='password' id='password' name='password' placeholder='Введите пароль'> <br></br>
+			
+			<!--Email-->
+			<label for='email'>Email: </label>
+			<input type='email' id='email' name='email' placeholder='Введите email'> <br></br>
+			
+			<!--Число-->
+			<label for='age'>Возраст: </label>
+			<input type='number' id='age' name='age' placeholder='Введите возраст' min='0' max='120'> <br></br>
+			
+			<!--Дата-->
+			<label for='dob'>Дата рождения: </label>
+			<input type='date' id='dob' name='dob'> <br></br>
+			
+			<!--Время-->
+			<label for='time'>Время: </label>
+			<input type='time' id='dob' name='dob'> <br></br>
+			
+			<!--Цвет-->
+			<label for='color'>Выберите цвет: </label>
+			<input type='color' id='color' name='color'> <br></br>
+			
+			<!--Чебоксары-->
+			<p>выберите хобби:</p>
+			<input type='Checkbox' id='hobby1' name='hobby' value='reading'> <br></br>
+			<label for='hobby1'>Чтение</label><br>
+			<input type='Checkbox' id='hobby2' name='hobby' value='sports'> <br></br>
+			
+	<body>
+</html>

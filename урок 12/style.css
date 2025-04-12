@@ -1,0 +1,79 @@
+h1{
+    color: rgb(185, 140, 227);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: rgb(135, 32, 125);
+    font-size: 22px;
+    text-decoration: underline;
+}
+.p1{    
+    color: rgb(251, 134, 218);
+    text-decoration: overline;
+}
+.p2{
+    color: rgb(148, 34, 116);
+    text-decoration: bold;
+}
+.p3{
+    color: rgb(45, 2, 32);
+    text-decoration: none;
+}
+.p4{
+    color: blue;
+    font-size: 22px;
+    text-align: left;
+    text-decoration: none;
+}
+.p5{
+    color: rgb(7, 55, 132);
+    font-size: 22px;
+    text-align: left;
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p6{
+    color: rgb(7, 55, 132);
+    font-size: 19px;
+    text-align: left;
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p7{
+    color: rgb(204, 131, 204);
+    font-size: 19px;
+    text-align: left;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p8{
+   color: red;
+    font-size: 22px;
+    text-align: left;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p9{
+    color: red;
+    font-size: 17px;
+    text-align: left;
+    text-decoration: none;
+}
+.p10{
+    color: black;
+    font-size: 17px;
+    text-align: left;
+    text-decoration: none;
+}
+.p11{
+    color: blue;
+    font-size: 22px;
+    text-align: left;
+    text-decoration: none;
+}
+

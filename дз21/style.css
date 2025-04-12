@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 20px 0;
+    float: left;
+    
+}
+
+table tr{
+    background-color: rgb(251, 251, 251);
+}
+
+table tr td{
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.m1{
+    background-color: rgb(21, 165, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 20px;
+    height: 40px;
+}
+.tr1{
+    background-color: rgb(230, 230, 230);
+}
+.tr2{
+    background-color: rgb(231, 231, 231);
+}
+.k1{
+    color: green;
+}
+.k2{
+    color: green;
+}
+.k3{
+    color: green;
+}
+.k4{
+    color: green;
+}

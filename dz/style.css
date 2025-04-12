@@ -1,0 +1,123 @@
+.content{
+    width: 100%;
+    height: 1100px;
+    border: 1px solid black;
+}
+.k1{
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    background-color: rgb(84, 84, 206);
+    margin-top: -1100px;
+}
+.k2{
+    width: 100%;
+    height: 300px;
+    border: 1px solid black;
+    background-color: rgb(24, 24, 92);
+    margin-top: 0px;
+}
+.k3{
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0px;
+}
+.k4{
+    width: 100%;
+    height: 240px;
+    border: 4px solid rgb(146, 10, 10);   
+}
+.k5{
+    width: 30%;
+    height: 210px;
+    border: 1px solid black;
+    margin-top: -230px;
+    background-color: rgb(70, 70, 173);
+}
+.k6{
+    width: 30%;
+    height: 210px;
+    border: 1px solid black;
+    margin-top: -210px;
+    margin-left: 530px;
+    background-color: rgb(70, 70, 173);
+}
+.k7{
+    width: 30%;
+    height: 210px;
+    border: 1px solid black;
+    margin-top: -210px;
+    margin-left: 1030px;
+    background-color: rgb(70, 70, 173);
+}
+.k8{
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 12px;
+}
+.k9{
+    width: 100%;
+    height: 230px;
+    border: 4px solid rgb(146, 10, 10);   
+}
+.k10{
+    width: 20%;
+    height: 200px;
+    border: 1px solid black;
+    background-color: rgb(70, 70, 173);
+    margin-top: -220px;
+}
+.k11{
+    width: 20%;
+    height: 200px;
+    border: 1px solid black;
+    background-color: rgb(70, 70, 173);
+    margin-top: -200px;
+    margin-left: 400px;
+}
+.k12{
+    width: 20%;
+    height: 200px;
+    border: 1px solid black;
+    background-color: rgb(70, 70, 173);
+    margin-top: -200px;
+    margin-left: 800px;
+}
+.k13{
+    width: 20%;
+    height: 200px;
+    border: 1px solid black;
+    background-color: rgb(70, 70, 173);
+    margin-top: -200px;
+    margin-left: 1170px;
+}
+.p1{
+    font-size: 15px;
+    color: yellow;
+}
+.p2{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    margin-top: -50px;
+}
+.p3{
+    font-size: 39px;
+    color: rgb(255, 255, 255);
+}
+.p5{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+.p5{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+.p8{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
